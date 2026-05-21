@@ -1,29 +1,30 @@
 # Leka's AI & Programming Learning Journey
 
-## Daily Learning Updates
+## Daily Progress
 
-### May 21, 2026
+<details>
+<summary><b>Day 1 — May 21, 2026</b></summary>
 
-#### 📊 Matplotlib
+### 📊 Matplotlib
 - Completed one YouTube tutorial on Matplotlib
 - Practiced:
-  - Subplots (`fig` and `axs`)
+  - Subplots (`fig`, `axs`)
   - Bar charts
-  - 3D plotting
-  - Sorting data before plotting
+  - 3D plots
   - Data visualization basics
 
-#### 📖 Research Paper Reading
-**Paper:**  
+### 📖 Research Paper Reading
+**Paper Read:**  
 *"Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI*
 
-#### ✍️ What I Learned
-- Small issues in datasets can create large problems later in AI systems
-- Dataset quality is extremely important in real-world AI
-- AI community often focuses more on models than data quality
-- There are many tools to evaluate models, but limited standard methods to evaluate dataset quality
+### ✍️ What I Learned
+- Small dataset issues can create large AI system failures later
+- Dataset quality is as important as model quality
+- AI research often focuses more on models than datasets
 
-#### 🧠 My Progress
-- Improving paper reading habit
-- Writing summaries in my own words
-- Practicing coding daily
+### 🧠 Progress
+- Wrote paper summary in my own words
+- Continued daily coding habit
+- Improved understanding of Matplotlib
+
+</details>
